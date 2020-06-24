@@ -2,7 +2,7 @@
 I do not know, but I would like to know
 
 ## Basic idea
-Calculate the percentage of people may have COVID today based on state population
+Calculate the percentage of people may have COVID today in state population
 
 ### How can I find out how many people may have COVID today?
 Please note this is an over simplified educated guess. Do not over interpret the result 
@@ -18,7 +18,7 @@ This project is under MIT license. I created it for personal reference. Feel fre
 
 ## Result
 
- Updated at:2020-06-24T06:29:55.165359+00:00
+ Updated at:2020-06-24T06:38:13.332025+00:00
 
 | State                | Chance of encountering 1 person with COVID   | Chance of encountering 10 people with COVID   | Chance of encountering 100 people with COVID   |   Max count of new case increase in the past 14 days |   Estimated people count with COVID |
 |:---------------------|:---------------------------------------------|:----------------------------------------------|:-----------------------------------------------|-----------------------------------------------------:|------------------------------------:|
