@@ -41,9 +41,9 @@ for fips, state in LIST_OF_STATES_WITH_FIPS.items():
 df = pd.DataFrame(prep_data, columns=list(prep_data.keys()))
 df.sort_values(by=['Possibility_1'])
 internal_to_external_name_map = {
-    'Possibility_1': 'Chance of encountering 1 person with COVID',
-    'Possibility_10': 'Chance of encountering 10 people with COVID',
-    'Possibility_100': 'Chance of encountering 100 people with COVID',
+    'Possibility_1': 'Chance of encountering 1 person with COVID if you meet 1 person',
+    'Possibility_10': 'Chance of encountering 1 person with COVID if you meet 10 people',
+    'Possibility_100': 'Chance of encountering a person with COVID if you meet 100 people',
     'Max': 'Max count of new case increase in the past 14 days',
     'Estimated_existing': 'Estimated people count with COVID'
 }
@@ -53,5 +53,5 @@ with open("README_BASE.md") as b:
     with open("README.md", "w") as f:
         for line in b:
             f.write(line)
-        f.write('\n Updated at:' + str(arrow.utcnow()) + '\n\n')
+        f.write('\n Updated at: ' + str(arrow.utcnow()) + '\n\n')
 df.to_markdown(open('README.md', 'a'), showindex=False)
