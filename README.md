@@ -2,7 +2,7 @@
 I do not know, but I would like to know
 
 ## Basic idea
-Calculate the percentage of people may have COVID today in state population
+Calculate the percentage of people may have COVID today based on state population
 
 ### How can I find out how many people may have COVID today?
 Please note this is an over simplified educated guess. Do not over interpret the result 
