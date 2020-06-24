@@ -1,4 +1,4 @@
-# What are the chance of encountering people with COVID?
+# What are the chance of encountering people with COVID if I go out today?
 I do not know, but I would like to know
 
 ## Basic idea
