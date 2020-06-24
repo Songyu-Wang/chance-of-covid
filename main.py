@@ -53,7 +53,5 @@ with open("README_BASE.md") as b:
     with open("README.md", "w") as f:
         for line in b:
             f.write(line)
-        f.write('\n Updated at:' + str(arrow.utcnow())+'\n\n')
-df.to_markdown(open('README.md', 'a'),showindex=False)
-
-
+        f.write('\n Updated at:' + str(arrow.utcnow()) + '\n\n')
+df.to_markdown(open('README.md', 'a'), showindex=False)
