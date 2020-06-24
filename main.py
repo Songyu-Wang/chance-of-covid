@@ -45,8 +45,7 @@ internal_to_external_name_map = {
     'Possibility_10': 'Chance of encountering 1 person with COVID if you meet 10 people',
     'Possibility_100': 'Chance of encountering a person with COVID if you meet 100 people',
     'Max': 'Max count of new case increase in the past 14 days',
-    'Estimated_existing': 'Estimated people count with COVID'
-}
+    'Estimated_existing': 'Estimated people count with COVID'}
 df = df.rename(internal_to_external_name_map, axis='columns')
 
 with open("README_BASE.md") as b:
