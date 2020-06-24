@@ -6,7 +6,7 @@ Calculate the percentage of people may have COVID today in state population
 
 ### How can I find out how many people may have COVID today?
 Please note this is an over simplified educated guess. Do not over interpret the result 
-1. Using API https://covidtracking.com/ to get new case increase count for the last 14 days for each state
+1. Using API https://covidtracking.com/ to get new case increase counts for the last 14 days for each state
 2. Find the maximum increase count in the past 14 days
 3. `Max value * 14 * 2` (This is by no means accurate. Too many factors are involved. I hope this is a conservative educated guess by using max value and `* 2` as fault tolerance mitigators ) 
 
