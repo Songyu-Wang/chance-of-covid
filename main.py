@@ -39,7 +39,6 @@ for fips, state in LIST_OF_STATES_WITH_FIPS.items():
     prep_data['Estimated_existing'].append(guess_current_covid_count)
 
 df = pd.DataFrame(prep_data, columns=list(prep_data.keys()))
-df.sort_values(by=['Possibility_1'])
 internal_to_external_name_map = {
     'Possibility_1': 'Chance of encountering 1 person with COVID if you meet 1 person',
     'Possibility_10': 'Chance of encountering 1 person with COVID if you meet 10 people',
