@@ -2,4 +2,5 @@ pandas
 us
 autopep8
 requests
-jinja2
+tabulate
+arrow
