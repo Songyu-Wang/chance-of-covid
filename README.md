@@ -18,7 +18,7 @@ This project is under MIT license. I created it for personal reference. Feel fre
 
 ## Result
 
- Updated at: 2020-06-26T00:26:21.856567+00:00
+ Updated at: 2020-06-26T06:10:10.041746+00:00
 
 | State                | Chance of encountering 1 person with COVID if you meet 1 person   | Chance of encountering 1 person with COVID if you meet 10 people   | Chance of encountering a person with COVID if you meet 100 people   |   Max count of new case increase in the past 14 days |   Estimated people count with COVID |
 |:---------------------|:------------------------------------------------------------------|:-------------------------------------------------------------------|:--------------------------------------------------------------------|-----------------------------------------------------:|------------------------------------:|
@@ -70,7 +70,7 @@ This project is under MIT license. I created it for personal reference. Feel fre
 | Virginia             | 0.21585%                                                          | 2.15851%                                                           | 21.58510%                                                           |                                                  658 |                               18424 |
 | Washington           | 0.18973%                                                          | 1.89733%                                                           | 18.97335%                                                           |                                                  516 |                               14448 |
 | West Virginia        | 0.08906%                                                          | 0.89055%                                                           | 8.90552%                                                            |                                                   57 |                                1596 |
-| Wisconsin            | 1.60716%                                                          | 16.07163%                                                          | 160.71629%                                                          |                                                 3342 |                               93576 |
+| Wisconsin            | 0.22410%                                                          | 2.24099%                                                           | 22.40987%                                                           |                                                  466 |                               13048 |
 | Wyoming              | 0.22738%                                                          | 2.27383%                                                           | 22.73831%                                                           |                                                   47 |                                1316 |
 | Puerto Rico          | 0.23496%                                                          | 2.34963%                                                           | 23.49630%                                                           |                                                  268 |                                7504 |
 | District of Columbia | 0.25788%                                                          | 2.57882%                                                           | 25.78821%                                                           |                                                   65 |                                1820 |
