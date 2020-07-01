@@ -18,7 +18,7 @@ This project is under MIT license. I created it for personal reference. Feel fre
 
 ## Result
 
- Updated at: 2020-07-01T12:15:01.877669+00:00
+ Updated at: 2020-07-01T18:12:25.935041+00:00
 
 | State                | Chance of encountering 1 person with COVID if you meet 1 person   | Chance of encountering 1 person with COVID if you meet 10 people   | Chance of encountering a person with COVID if you meet 100 people   |   Max count of new case increase in the past 14 days |   Estimated people count with COVID |
 |:---------------------|:------------------------------------------------------------------|:-------------------------------------------------------------------|:--------------------------------------------------------------------|-----------------------------------------------------:|------------------------------------:|
