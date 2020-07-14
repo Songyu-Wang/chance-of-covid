@@ -18,7 +18,7 @@ This project is under MIT license. I created it for personal reference. Feel fre
 
 ## Result
 
- Updated at: 2020-07-14T00:32:53.698845+00:00
+ Updated at: 2020-07-14T06:12:55.582092+00:00
 
 | State                | Chance of encountering 1 person with COVID if you meet 1 person   | Chance of encountering 1 person with COVID if you meet 10 people   | Chance of encountering a person with COVID if you meet 100 people   |   Max count of new case increase in the past 14 days |   Estimated people count with COVID |
 |:---------------------|:------------------------------------------------------------------|:-------------------------------------------------------------------|:--------------------------------------------------------------------|-----------------------------------------------------:|------------------------------------:|
@@ -55,7 +55,7 @@ This project is under MIT license. I created it for personal reference. Feel fre
 | New Mexico           | 0.39793%                                                          | 3.97934%                                                           | 39.79342%                                                           |                                                  298 |                                8344 |
 | New York             | 0.13213%                                                          | 1.32130%                                                           | 13.21301%                                                           |                                                  918 |                               25704 |
 | North Carolina       | 0.65728%                                                          | 6.57279%                                                           | 65.72793%                                                           |                                                 2462 |                               68936 |
-| North Dakota         | 0.36375%                                                          | 3.63750%                                                           | 36.37499%                                                           |                                                   99 |                                2772 |
+| North Dakota         | 0.39682%                                                          | 3.96818%                                                           | 39.68181%                                                           |                                                  108 |                                3024 |
 | Ohio                 | 0.36530%                                                          | 3.65298%                                                           | 36.52976%                                                           |                                                 1525 |                               42700 |
 | Oklahoma             | 0.60713%                                                          | 6.07131%                                                           | 60.71311%                                                           |                                                  858 |                               24024 |
 | Oregon               | 0.26355%                                                          | 2.63554%                                                           | 26.35537%                                                           |                                                  397 |                               11116 |
