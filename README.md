@@ -18,7 +18,7 @@ This project is under MIT license. I created it for personal reference. Feel fre
 
 ## Result
 
- Updated at: 2020-07-24T12:18:07.157876+00:00
+ Updated at: 2020-07-24T18:13:04.441477+00:00
 
 | State                | Chance of encountering 1 person with COVID if you meet 1 person   | Chance of encountering 1 person with COVID if you meet 10 people   | Chance of encountering a person with COVID if you meet 100 people   |   Max count of new case increase in the past 14 days |   Estimated people count with COVID |
 |:---------------------|:------------------------------------------------------------------|:-------------------------------------------------------------------|:--------------------------------------------------------------------|-----------------------------------------------------:|------------------------------------:|
@@ -57,7 +57,7 @@ This project is under MIT license. I created it for personal reference. Feel fre
 | North Carolina       | 0.66235%                                                          | 6.62352%                                                           | 66.23517%                                                           |                                                 2481 |                               69468 |
 | North Dakota         | 0.58788%                                                          | 5.87879%                                                           | 58.78787%                                                           |                                                  160 |                                4480 |
 | Ohio                 | 0.40219%                                                          | 4.02187%                                                           | 40.21867%                                                           |                                                 1679 |                               47012 |
-| Oklahoma             | 1.32182%                                                          | 13.21819%                                                          | 132.18191%                                                          |                                                 1868 |                               52304 |
+| Oklahoma             | 0.76068%                                                          | 7.60683%                                                           | 76.06829%                                                           |                                                 1075 |                               30100 |
 | Oregon               | 0.28546%                                                          | 2.85461%                                                           | 28.54611%                                                           |                                                  430 |                               12040 |
 | Pennsylvania         | 0.22571%                                                          | 2.25715%                                                           | 22.57149%                                                           |                                                 1032 |                               28896 |
 | Rhode Island         | 0.46254%                                                          | 4.62543%                                                           | 46.25430%                                                           |                                                  175 |                                4900 |
