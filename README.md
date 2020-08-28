@@ -18,7 +18,7 @@ This project is under MIT license. I created it for personal reference. Feel fre
 
 ## Result
 
- Updated at: 2020-08-28T12:23:29.754242+00:00
+ Updated at: 2020-08-28T18:17:38.692615+00:00
 
 | State                | Chance of encountering 1 person with COVID if you meet 1 person   | Chance of encountering 1 person with COVID if you meet 10 people   | Chance of encountering a person with COVID if you meet 100 people   |   Max count of new case increase in the past 14 days |   Estimated people count with COVID |
 |:---------------------|:------------------------------------------------------------------|:-------------------------------------------------------------------|:--------------------------------------------------------------------|-----------------------------------------------------:|------------------------------------:|
@@ -62,7 +62,7 @@ This project is under MIT license. I created it for personal reference. Feel fre
 | Pennsylvania         | 0.18591%                                                          | 1.85909%                                                           | 18.59086%                                                           |                                                  850 |                               23800 |
 | Rhode Island         | 0.40439%                                                          | 4.04395%                                                           | 40.43947%                                                           |                                                  153 |                                4284 |
 | South Carolina       | 0.57537%                                                          | 5.75367%                                                           | 57.53670%                                                           |                                                 1058 |                               29624 |
-| South Dakota         | 1.97183%                                                          | 19.71833%                                                          | 197.18332%                                                          |                                                  623 |                               17444 |
+| South Dakota         | 1.08562%                                                          | 10.85616%                                                          | 108.56160%                                                          |                                                  343 |                                9604 |
 | Tennessee            | 0.82903%                                                          | 8.29031%                                                           | 82.90314%                                                           |                                                 2022 |                               56616 |
 | Texas                | 0.79618%                                                          | 7.96182%                                                           | 79.61821%                                                           |                                                 8245 |                              230860 |
 | Utah                 | 0.48210%                                                          | 4.82102%                                                           | 48.21024%                                                           |                                                  552 |                               15456 |
