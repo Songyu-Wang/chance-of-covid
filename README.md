@@ -18,7 +18,7 @@ This project is under MIT license. I created it for personal reference. Feel fre
 
 ## Result
 
- Updated at: 2020-09-14T12:23:45.037752+00:00
+ Updated at: 2020-09-14T18:18:30.432904+00:00
 
 | State                | Chance of encountering 1 person with COVID if you meet 1 person   | Chance of encountering 1 person with COVID if you meet 10 people   | Chance of encountering a person with COVID if you meet 100 people   |   Max count of new case increase in the past 14 days |   Estimated people count with COVID |
 |:---------------------|:------------------------------------------------------------------|:-------------------------------------------------------------------|:--------------------------------------------------------------------|-----------------------------------------------------:|------------------------------------:|
@@ -64,7 +64,7 @@ This project is under MIT license. I created it for personal reference. Feel fre
 | South Carolina       | 1.33455%                                                          | 13.34547%                                                          | 133.45468%                                                          |                                                 2454 |                               68712 |
 | South Dakota         | 1.05713%                                                          | 10.57130%                                                          | 105.71305%                                                          |                                                  334 |                                9352 |
 | Tennessee            | 0.74539%                                                          | 7.45390%                                                           | 74.53903%                                                           |                                                 1818 |                               50904 |
-| Texas                | 0.58692%                                                          | 5.86925%                                                           | 58.69247%                                                           |                                                 6078 |                              170184 |
+| Texas                | 0.52937%                                                          | 5.29372%                                                           | 52.93717%                                                           |                                                 5482 |                              153496 |
 | Utah                 | 0.57293%                                                          | 5.72933%                                                           | 57.29333%                                                           |                                                  656 |                               18368 |
 | Vermont              | 0.04936%                                                          | 0.49360%                                                           | 4.93598%                                                            |                                                   11 |                                 308 |
 | Virginia             | 0.42645%                                                          | 4.26453%                                                           | 42.64533%                                                           |                                                 1300 |                               36400 |
