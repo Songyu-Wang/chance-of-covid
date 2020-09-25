@@ -18,7 +18,7 @@ This project is under MIT license. I created it for personal reference. Feel fre
 
 ## Result
 
- Updated at: 2020-09-25T00:50:57.121867+00:00
+ Updated at: 2020-09-25T06:20:00.822545+00:00
 
 | State                | Chance of encountering 1 person with COVID if you meet 1 person   | Chance of encountering 1 person with COVID if you meet 10 people   | Chance of encountering a person with COVID if you meet 100 people   |   Max count of new case increase in the past 14 days |   Estimated people count with COVID |
 |:---------------------|:------------------------------------------------------------------|:-------------------------------------------------------------------|:--------------------------------------------------------------------|-----------------------------------------------------:|------------------------------------:|
@@ -42,7 +42,7 @@ This project is under MIT license. I created it for personal reference. Feel fre
 | Louisiana            | 0.77155%                                                          | 7.71555%                                                           | 77.15549%                                                           |                                                 1281 |                               35868 |
 | Maine                | 0.09165%                                                          | 0.91652%                                                           | 9.16522%                                                            |                                                   44 |                                1232 |
 | Maryland             | 0.37468%                                                          | 3.74681%                                                           | 37.46808%                                                           |                                                  809 |                               22652 |
-| Massachusetts        | 0.41599%                                                          | 4.15988%                                                           | 41.59882%                                                           |                                                 1024 |                               28672 |
+| Massachusetts        | 0.24334%                                                          | 2.43337%                                                           | 24.33369%                                                           |                                                  599 |                               16772 |
 | Michigan             | 0.44158%                                                          | 4.41580%                                                           | 44.15804%                                                           |                                                 1575 |                               44100 |
 | Minnesota            | 0.64345%                                                          | 6.43446%                                                           | 64.34462%                                                           |                                                 1296 |                               36288 |
 | Mississippi          | 1.08382%                                                          | 10.83817%                                                          | 108.38167%                                                          |                                                 1152 |                               32256 |
