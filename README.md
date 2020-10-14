@@ -18,7 +18,7 @@ This project is under MIT license. I created it for personal reference. Feel fre
 
 ## Result
 
- Updated at: 2020-10-14T12:26:09.499770+00:00
+ Updated at: 2020-10-14T18:21:56.414839+00:00
 
 | State                | Chance of encountering 1 person with COVID if you meet 1 person   | Chance of encountering 1 person with COVID if you meet 10 people   | Chance of encountering a person with COVID if you meet 100 people   |   Max count of new case increase in the past 14 days |   Estimated people count with COVID |
 |:---------------------|:------------------------------------------------------------------|:-------------------------------------------------------------------|:--------------------------------------------------------------------|-----------------------------------------------------:|------------------------------------:|
@@ -68,7 +68,7 @@ This project is under MIT license. I created it for personal reference. Feel fre
 | Utah                 | 1.31093%                                                          | 13.10934%                                                          | 131.09342%                                                          |                                                 1501 |                               42028 |
 | Vermont              | 0.14359%                                                          | 1.43592%                                                           | 14.35923%                                                           |                                                   32 |                                 896 |
 | Virginia             | 0.60491%                                                          | 6.04908%                                                           | 60.49076%                                                           |                                                 1844 |                               51632 |
-| Washington           | 0.26107%                                                          | 2.61067%                                                           | 26.10674%                                                           |                                                  710 |                               19880 |
+| Washington           | 0.63980%                                                          | 6.39799%                                                           | 63.97989%                                                           |                                                 1740 |                               48720 |
 | West Virginia        | 0.59683%                                                          | 5.96826%                                                           | 59.68260%                                                           |                                                  382 |                               10696 |
 | Wisconsin            | 1.64852%                                                          | 16.48520%                                                          | 164.85202%                                                          |                                                 3428 |                               95984 |
 | Wyoming              | 1.17562%                                                          | 11.75619%                                                          | 117.56189%                                                          |                                                  243 |                                6804 |
