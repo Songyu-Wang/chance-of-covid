@@ -18,7 +18,7 @@ This project is under MIT license. I created it for personal reference. Feel fre
 
 ## Result
 
- Updated at: 2020-10-19T12:40:40.987469+00:00
+ Updated at: 2020-10-19T18:36:24.328619+00:00
 
 | State                | Chance of encountering 1 person with COVID if you meet 1 person   | Chance of encountering 1 person with COVID if you meet 10 people   | Chance of encountering a person with COVID if you meet 100 people   |   Max count of new case increase in the past 14 days |   Estimated people count with COVID |
 |:---------------------|:------------------------------------------------------------------|:-------------------------------------------------------------------|:--------------------------------------------------------------------|-----------------------------------------------------:|------------------------------------:|
@@ -60,7 +60,7 @@ This project is under MIT license. I created it for personal reference. Feel fre
 | Oklahoma             | 1.08477%                                                          | 10.84769%                                                          | 108.47691%                                                          |                                                 1533 |                               42924 |
 | Oregon               | 0.31998%                                                          | 3.19982%                                                           | 31.99820%                                                           |                                                  482 |                               13496 |
 | Pennsylvania         | 0.40616%                                                          | 4.06156%                                                           | 40.61556%                                                           |                                                 1857 |                               51996 |
-| Rhode Island         | 0.75593%                                                          | 7.55927%                                                           | 75.59274%                                                           |                                                  286 |                                8008 |
+| Rhode Island         | 0.75857%                                                          | 7.58570%                                                           | 75.85705%                                                           |                                                  287 |                                8036 |
 | South Carolina       | 0.70534%                                                          | 7.05341%                                                           | 70.53412%                                                           |                                                 1297 |                               36316 |
 | South Dakota         | 3.26001%                                                          | 32.60013%                                                          | 326.00132%                                                          |                                                 1030 |                               28840 |
 | Tennessee            | 1.21567%                                                          | 12.15667%                                                          | 121.56668%                                                          |                                                 2965 |                               83020 |
