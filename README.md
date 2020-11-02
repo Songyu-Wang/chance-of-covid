@@ -18,7 +18,7 @@ This project is under MIT license. I created it for personal reference. Feel fre
 
 ## Result
 
- Updated at: 2020-11-02T00:37:48.581360+00:00
+ Updated at: 2020-11-02T06:16:01.830226+00:00
 
 | State                | Chance of encountering 1 person with COVID if you meet 1 person   | Chance of encountering 1 person with COVID if you meet 10 people   | Chance of encountering a person with COVID if you meet 100 people   |   Max count of new case increase in the past 14 days |   Estimated people count with COVID |
 |:---------------------|:------------------------------------------------------------------|:-------------------------------------------------------------------|:--------------------------------------------------------------------|-----------------------------------------------------:|------------------------------------:|
@@ -52,7 +52,7 @@ This project is under MIT license. I created it for personal reference. Feel fre
 | Nevada               | 1.11994%                                                          | 11.19943%                                                          | 111.99433%                                                          |                                                 1232 |                               34496 |
 | New Hampshire        | 0.41185%                                                          | 4.11852%                                                           | 41.18522%                                                           |                                                  200 |                                5600 |
 | New Jersey           | 0.62291%                                                          | 6.22909%                                                           | 62.29094%                                                           |                                                 1976 |                               55328 |
-| New Mexico           | 1.76667%                                                          | 17.66668%                                                          | 176.66677%                                                          |                                                 1323 |                               37044 |
+| New Mexico           | 1.43951%                                                          | 14.39507%                                                          | 143.95070%                                                          |                                                 1078 |                               30184 |
 | New York             | 0.35969%                                                          | 3.59687%                                                           | 35.96874%                                                           |                                                 2499 |                               69972 |
 | North Carolina       | 0.77021%                                                          | 7.70207%                                                           | 77.02074%                                                           |                                                 2885 |                               80780 |
 | North Dakota         | 5.26519%                                                          | 52.65188%                                                          | 526.51884%                                                          |                                                 1433 |                               40124 |
