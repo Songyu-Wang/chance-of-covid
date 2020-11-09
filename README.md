@@ -18,7 +18,7 @@ This project is under MIT license. I created it for personal reference. Feel fre
 
 ## Result
 
- Updated at: 2020-11-09T06:18:28.696358+00:00
+ Updated at: 2020-11-09T12:22:15.825209+00:00
 
 | State                | Chance of encountering 1 person with COVID if you meet 1 person   | Chance of encountering 1 person with COVID if you meet 10 people   | Chance of encountering a person with COVID if you meet 100 people   |   Max count of new case increase in the past 14 days |   Estimated people count with COVID |
 |:---------------------|:------------------------------------------------------------------|:-------------------------------------------------------------------|:--------------------------------------------------------------------|-----------------------------------------------------:|------------------------------------:|
@@ -26,7 +26,7 @@ This project is under MIT license. I created it for personal reference. Feel fre
 | Alaska               | 2.32330%                                                          | 23.23302%                                                          | 232.33021%                                                          |                                                  607 |                               16996 |
 | Arizona              | 1.00787%                                                          | 10.07870%                                                          | 100.78699%                                                          |                                                 2620 |                               73360 |
 | Arkansas             | 1.73504%                                                          | 17.35036%                                                          | 173.50365%                                                          |                                                 1870 |                               52360 |
-| California           | 0.46189%                                                          | 4.61893%                                                           | 46.18925%                                                           |                                                 6518 |                              182504 |
+| California           | 0.54438%                                                          | 5.44378%                                                           | 54.43784%                                                           |                                                 7682 |                              215096 |
 | Colorado             | 1.70079%                                                          | 17.00790%                                                          | 170.07899%                                                          |                                                 3498 |                               97944 |
 | Connecticut          | 2.08196%                                                          | 20.81964%                                                          | 208.19642%                                                          |                                                 2651 |                               74228 |
 | Delaware             | 0.99203%                                                          | 9.92027%                                                           | 99.20268%                                                           |                                                  345 |                                9660 |
