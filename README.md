@@ -18,7 +18,7 @@ This project is under MIT license. I created it for personal reference. Feel fre
 
 ## Result
 
- Updated at: 2021-01-10T18:45:12.858361+00:00
+ Updated at: 2021-01-11T01:17:29.544750+00:00
 
 | State                | Chance of encountering 1 person with COVID if you meet 1 person   | Chance of encountering 1 person with COVID if you meet 10 people   | Chance of encountering a person with COVID if you meet 100 people   |   Max count of new case increase in the past 14 days |   Estimated people count with COVID |
 |:---------------------|:------------------------------------------------------------------|:-------------------------------------------------------------------|:--------------------------------------------------------------------|-----------------------------------------------------:|------------------------------------:|
@@ -73,4 +73,4 @@ This project is under MIT license. I created it for personal reference. Feel fre
 | Wisconsin            | 2.16837%                                                          | 21.68372%                                                          | 216.83715%                                                          |                                                 4509 |                              126252 |
 | Wyoming              | 2.43832%                                                          | 24.38321%                                                          | 243.83206%                                                          |                                                  504 |                               14112 |
 | Puerto Rico          | 1.90162%                                                          | 19.01622%                                                          | 190.16224%                                                          |                                                 2169 |                               60732 |
-| District of Columbia | 1.95197%                                                          | 19.51969%                                                          | 195.19688%                                                          |                                                  492 |                               13776 |
+| District of Columbia | 1.41637%                                                          | 14.16368%                                                          | 141.63676%                                                          |                                                  357 |                                9996 |
