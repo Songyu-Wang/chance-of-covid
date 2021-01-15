@@ -18,7 +18,7 @@ This project is under MIT license. I created it for personal reference. Feel fre
 
 ## Result
 
- Updated at: 2021-01-14T18:59:11.514975+00:00
+ Updated at: 2021-01-15T01:31:46.271104+00:00
 
 | State                | Chance of encountering 1 person with COVID if you meet 1 person   | Chance of encountering 1 person with COVID if you meet 10 people   | Chance of encountering a person with COVID if you meet 100 people   |   Max count of new case increase in the past 14 days |   Estimated people count with COVID |
 |:---------------------|:------------------------------------------------------------------|:-------------------------------------------------------------------|:--------------------------------------------------------------------|-----------------------------------------------------:|------------------------------------:|
@@ -48,7 +48,7 @@ This project is under MIT license. I created it for personal reference. Feel fre
 | Mississippi          | 3.06235%                                                          | 30.62347%                                                          | 306.23467%                                                          |                                                 3255 |                               91140 |
 | Missouri             | 2.15745%                                                          | 21.57451%                                                          | 215.74510%                                                          |                                                 4729 |                              132412 |
 | Montana              | 2.14301%                                                          | 21.43008%                                                          | 214.30082%                                                          |                                                  818 |                               22904 |
-| Nebraska             | 2.19437%                                                          | 21.94366%                                                          | 219.43664%                                                          |                                                 1516 |                               42448 |
+| Nebraska             | 2.21318%                                                          | 22.13184%                                                          | 221.31836%                                                          |                                                 1529 |                               42812 |
 | Nevada               | 3.09257%                                                          | 30.92571%                                                          | 309.25706%                                                          |                                                 3402 |                               95256 |
 | New Hampshire        | 2.60702%                                                          | 26.07025%                                                          | 260.70246%                                                          |                                                 1266 |                               35448 |
 | New Jersey           | 2.48407%                                                          | 24.84072%                                                          | 248.40721%                                                          |                                                 7880 |                              220640 |
